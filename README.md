@@ -24,7 +24,17 @@ This project is a Product Management System designed to simplify the management 
     - Edit individual products.
     - Delete any product easily.
 11. **Data Persistence**: Products are stored in the project's internal memory, ensuring data is not lost when the page is reloaded.
- 1. **إضافة اسم المنتج**: أدخل اسم المنتج الذي تريد إضافته.
+
+
+**Note**: The site is compatible with all devices, but it is recommended to use it on a larger screen for the best experience.
+
+
+
+
+
+## الميزات
+
+1. **إضافة اسم المنتج**: أدخل اسم المنتج الذي تريد إضافته.
 2. **سعر المنتج**: حدد سعر المنتج.
 3. **الإعلانات (Ads)**: إذا كان المنتج يتطلب إعلانات، أدخل تفاصيلها.
 4. **الضرائب**: أضف الضرائب المطبقة على المنتج.
@@ -39,37 +49,24 @@ This project is a Product Management System designed to simplify the management 
 11. **حفظ البيانات**: يتم تخزين المنتجات في الذاكرة الداخلية للمشروع، لضمان عدم فقدان البيانات عند إعادة تحميل الصفحة.
 
 
-**Note**: The site is compatible with all devices, but it is recommended to use it on a larger screen for the best experience.
 **ملاحظة**: الموقع متوافق مع جميع الأجهزة، ولكن يفضل استخدامه على شاشة كبيرة للحصول على أفضل تجربة.
 
 ## Installation
 
 To get started with this project, clone the repository and open it in your preferred development environment.
 
-```bash
+## bash
 git clone https://github.com/your-username/product-management-system.git
 cd product-management-system
+
+
 
 ## التثبيت
 
 للبدء في هذا المشروع، قم باستنساخ المستودع وفتحه في بيئة التطوير المفضلة لديك.
-## Usage
-Open the project in your browser.
-Use the interface to add products, set prices, apply taxes and discounts, and manage product data.
-Utilize the search feature to find products quickly.
-Clear all products if needed and view the total number of products added.
 
-## الاستخدام 
-افتح المشروع في متصفحك.
-استخدم الواجهة لإضافة المنتجات، تعيين الأسعار، تطبيق الضرائب والخصومات، وإدارة بيانات المنتج.
-استخدم ميزة البحث للعثور على المنتجات بسرعة.
-امسح جميع المنتجات إذا لزم الأمر وعرض إجمالي عدد المنتجات المضافة.
 
-## Acknowledgments
-Thanks to the open-source community for the tools and resources provided.
 
-##الشكر والتقدير
-شكرًا لمجتمع المصادر المفتوحة على الأدوات والموارد المقدمة.
 
 
 
